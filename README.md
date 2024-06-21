@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viveksinghmehta
-- 👀 I’m interested in SwiftUI
+- 👀 I’m interested in SwiftUI and Go
 - 💞️ I’m looking to collaborate on simple repos
 - 📫 How to reach me viveksinghmehta.smr@gmail.com
 
